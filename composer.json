@@ -1,6 +1,6 @@
 {
-    "name": "darryldecode/cart",
-    "description": "Laravel 5 Shopping cart",
+    "name": "hutaoseven/cart",
+    "description": "Laravel Shopping cart",
     "keywords": ["laravel", "shopping cart", "cart"],
     "license": "MIT",
     "authors": [
